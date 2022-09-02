@@ -1,7 +1,7 @@
 #
 # Standard configuration
 #
-baseURL                = "https://Hridayesa.github.io/shdoc"
+baseURL                = "https://indiasoul.ru/"
 copyright              = "The MIT License (MIT) Copyright © 2020 Jordan GAZEAU"
 defaultContentLanguage = "en"
 enableEmoji            = false
